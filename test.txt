@@ -1,1 +1,3 @@
-Adding a test text to see if I can move issues on my Jira board.
+Adding a test text to see if  
+I can move issues on my Jira board.  
+Another change
